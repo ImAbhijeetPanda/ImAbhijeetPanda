@@ -15,13 +15,14 @@ As a **data-driven problem solver**, I specialize in transforming raw data into 
 </p>
 
 - 🎓 **Education**
-    - **Certification in Data Science** | 360DigiTMG & AlmaBetter (2024 - Present)
+    - **Certification in Data Science** | 360DigiTMG & AlmaBetter
     - **Masters** | Utkal University
     - **Bachelor of Science** | Fakir Mohan University
     - **PG Diploma in Computer Applications**
 
 - 🏆 **Certifications**
-    - **Python, MySQL, Power BI, Tableau, Excel**
+    - **Python,Pandas, Numpy, SQL**
+    - **Power BI, Tableau, Excel**
     - **Machine Learning & NLP** (NASSCOM Gold Certified)
     - **Advanced Machine Learning & Data Visualization Tools**
 
