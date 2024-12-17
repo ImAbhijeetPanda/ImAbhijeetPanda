@@ -21,7 +21,8 @@ As a **data-driven problem solver**, I specialize in transforming raw data into 
     - **PG Diploma in Computer Applications**
 
 - 🏆 **Certifications**
-    - **Python,Pandas, Numpy, SQL**
+    - **Python, Pandas, Numpy**
+    - **SQL, MySQL, DBMS**
     - **Power BI, Tableau, Excel**
     - **Machine Learning & NLP** (NASSCOM Gold Certified)
     - **Advanced Machine Learning & Data Visualization Tools**
@@ -85,10 +86,13 @@ As a **data-driven problem solver**, I specialize in transforming raw data into 
     </a>
 </p>
 
-📞 **Contact**: +91 94388 32779 | 🌍 **Location**: Bangalore, India
+📞 **Contact**: +91 94388 32779 || 🌍 **Location**: Bangalore, India
 
 ---
 
-## 💼 Skills
+## 💼 Skills  
+- **🔹 Organized** | **🔹 Adaptability** | **🔹 Critical Thinking**  
+- **🔹 Teamwork** | **🔹 Communication**  
+- **🔹 Problem-Solving** | **🔹 Attention to Detail** | **🔹 Leadership**  
+- **🔹 Time Management** | **🔹 Strategic Thinking**  
 
-- **🔹 Organized
