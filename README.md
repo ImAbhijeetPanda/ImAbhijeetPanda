@@ -60,7 +60,7 @@ As a **data-driven problem solver**, I specialize in transforming raw data into 
 
 1. **[Netflix Movies and TV Shows Clustering](https://github.com/ImAbhijeetPanda/Netflix-Movies-and-TV-Shows-Clustering/blob/main/README.md)**
     - Performed clustering analysis to categorize Netflix content into meaningful segments using **unsupervised learning**.
-    - Tools Used: Python, Pandas, Scikit-learn, Matplotlib
+    - Tools Used: Python, Pandas, NLTK, Matplotlib, Seaborn
 
 2. **[Hotel Booking Analysis](https://github.com/ImAbhijeetPanda/Hotel-Booking/blob/main/README.md)**
     - Conducted **exploratory data analysis (EDA)** to identify booking trends, cancellations, and customer behavior.
