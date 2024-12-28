@@ -58,19 +58,23 @@ As a **data-driven problem solver**, I specialize in transforming raw data into 
 
 ## 🚀 Projects
 
-1. **[Netflix Movies and TV Shows Clustering](https://github.com/ImAbhijeetPanda/Netflix-Movies-and-TV-Shows-Clustering/blob/main/README.md)**
+1. **Solar Panel Fault Detection**
+    - Built a **fault detection system** using **YOLO models** and **Roboflow**, achieving 95% accuracy while reducing downtime by 15% and maintenance costs by 10%.
+
+2. **[Coronavirus Tweet Sentiment Analysis](https://github.com/ImAbhijeetPanda/Coronavirus-Tweet-Sentiment-Analysis)**
+    - Built a machine learning model to classify COVID-19-related tweets into Positive, Negative, and Neutral sentiments.
+    - Tools Used: Python, Pandas, Matplotlib, Seaborn, TF-IDF, Tensor, LSTM RNN, Word2Vec, Logistic Regression, Randomforest Classifier, SVM etc
+
+3. **[Netflix Movies and TV Shows Clustering](https://github.com/ImAbhijeetPanda/Netflix-Movies-and-TV-Shows-Clustering/blob/main/README.md)**
     - Performed clustering analysis to categorize Netflix content into meaningful segments using **unsupervised learning**.
     - Tools Used: Python, Pandas, NLTK, Matplotlib, Seaborn
 
-2. **[Hotel Booking Analysis](https://github.com/ImAbhijeetPanda/Hotel-Booking/blob/main/README.md)**
+4. **[Hotel Booking Analysis](https://github.com/ImAbhijeetPanda/Hotel-Booking/blob/main/README.md)**
     - Conducted **exploratory data analysis (EDA)** to identify booking trends, cancellations, and customer behavior.
     - Tools Used: Python, Pandas, Matplotlib, Seaborn
 
-3. **SWAYAM Platform Analysis**
+5. **SWAYAM Platform Analysis**
     - Conducted in-depth analysis using **Python** and **MS Excel** to improve user experience and enhance educational impact.
-
-4. **Solar Panel Fault Detection**
-    - Built a **fault detection system** using **YOLO models** and **Roboflow**, achieving 95% accuracy while reducing downtime by 15% and maintenance costs by 10%.
 
 ---
 
