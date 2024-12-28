@@ -63,11 +63,11 @@ As a **data-driven problem solver**, I specialize in transforming raw data into 
 
 2. **[Coronavirus Tweet Sentiment Analysis](https://github.com/ImAbhijeetPanda/Coronavirus-Tweet-Sentiment-Analysis)**
     - Built a machine learning model to classify COVID-19-related tweets into Positive, Negative, and Neutral sentiments.
-    - Tools Used: Python, Pandas, Matplotlib, Seaborn, TF-IDF, Tensor, LSTM RNN, Word2Vec, Logistic Regression, Randomforest Classifier, SVM etc
+    - Tools Used: Python, Pandas, Matplotlib, Seaborn, TF-IDF, Tensor, LSTM RNN, Word2Vec, Logistic Regression, Randomforest Classifier, SVM, NLP etc
 
 3. **[Netflix Movies and TV Shows Clustering](https://github.com/ImAbhijeetPanda/Netflix-Movies-and-TV-Shows-Clustering/blob/main/README.md)**
     - Performed clustering analysis to categorize Netflix content into meaningful segments using **unsupervised learning**.
-    - Tools Used: Python, Pandas, NLTK, Matplotlib, Seaborn
+    - Tools Used: Python, Pandas, NLTK, Matplotlib, Seaborn, NLP, TFIDF
 
 4. **[Hotel Booking Analysis](https://github.com/ImAbhijeetPanda/Hotel-Booking/blob/main/README.md)**
     - Conducted **exploratory data analysis (EDA)** to identify booking trends, cancellations, and customer behavior.
