@@ -83,7 +83,7 @@ As a **data-driven problem solver**, I specialize in transforming raw data into 
     - Identified key factors influencing cancellations and explored room type preferences across customer segments.  
     - Provided insights using **bar charts, histograms, line charts, and heatmaps** to support data-driven decision-making.
 
-5. **SWAYAM Platform Analysis**
+5. **SWAYAM: A Comprehensive Study on Online Education**
     - Conducted a **comprehensive study on online education using SWAYAM** by analyzing enrollment trends, course popularity, and user engagement.  
     - Utilized **Excel and Python (Pandas, Matplotlib, Seaborn)** for data cleaning, visualization, and exploratory data analysis (EDA).  
     - Identified key insights on **learner demographics, course completion rates, and subject preferences**.  
