@@ -68,8 +68,11 @@ As a **data-driven problem solver**, I specialize in transforming raw data into 
     - Tools Used: Python, Pandas, Matplotlib, Seaborn, TF-IDF, Tensor, LSTM RNN, Word2Vec, Logistic Regression, Randomforest Classifier, SVM, NLP etc
 
 3. **[Netflix Movies and TV Shows Clustering](https://github.com/ImAbhijeetPanda/Netflix-Movies-and-TV-Shows-Clustering/blob/main/README.md)**
-    - Performed clustering analysis to categorize Netflix content into meaningful segments using **unsupervised learning**.
-    - Tools Used: Python, Pandas, NLTK, Matplotlib, Seaborn, NLP, TFIDF
+    - Developed a **Netflix Movies and TV Shows Clustering** project using **unsupervised machine learning** to analyze and segment content.  
+    - Utilized **Python, Pandas, Scikit-learn, NLTK, and TF-IDF** for data preprocessing, text analysis, and feature extraction.  
+    - Applied **K-Means, Agglomerative Clustering, and DBSCAN**, optimizing clusters using **PCA and Silhouette Scores**.  
+    - Performed **EDA with heatmaps, bar charts, and word clouds** to identify trends and insights.  
+    - Successfully categorized content into meaningful clusters, improving understanding of Netflix’s content distribution.
 
 4. **[Hotel Booking Analysis](https://github.com/ImAbhijeetPanda/Hotel-Booking/blob/main/README.md)**
     - Conducted **exploratory data analysis (EDA)** to identify booking trends, cancellations, and customer behavior.
