@@ -84,8 +84,16 @@ As a **data-driven problem solver**, I specialize in transforming raw data into 
     - Provided insights using **bar charts, histograms, line charts, and heatmaps** to support data-driven decision-making.
 
 5. **SWAYAM Platform Analysis**
-    - Conducted in-depth analysis using **Python** and **MS Excel** to improve user experience and enhance educational impact.
+    - Conducted a **comprehensive study on online education using SWAYAM** by analyzing enrollment trends, course popularity, and user engagement.  
+    - Utilized **Excel and Python (Pandas, Matplotlib, Seaborn)** for data cleaning, visualization, and exploratory data analysis (EDA).  
+    - Identified key insights on **learner demographics, course completion rates, and subject preferences**.  
+    - Provided **data-driven recommendations** to enhance course offerings and improve user engagement on the platform.
 
+6. **Microsoft Power BI: Olympic Medal Analysis Using Power BI**
+    - Conducted an in-depth analysis of **Olympic medal distributions** using **Power BI**, exploring country performances, event trends, and historical medal counts.  
+    - Utilized **Power Query Editor** for data transformation and cleaning, ensuring accuracy and consistency.  
+    - Applied **DAX functions** to create dynamic measures and insightful visualizations for performance comparisons.  
+    - Provided interactive dashboards to track medal trends, athlete statistics, and country-wise achievements over time.
 ---
 
 ## 📫 Let's Connect
