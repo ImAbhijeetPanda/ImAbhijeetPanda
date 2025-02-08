@@ -61,7 +61,7 @@ As a **data-driven problem solver**, I specialize in transforming raw data into 
 1. **[Solar Panel Fault Detection](https://github.com/ImAbhijeetPanda/Solar-Panel-Fault-Detection/blob/Models/README.md)**
     - Built a **fault detection system** using **YOLO models** and **Roboflow**, achieving 95% accuracy while reducing downtime by 15% and maintenance costs by 10%.
 
-2. **[Coronavirus Tweet Sentiment Analysis](https://github.com/ImAbhijeetPanda/Coronavirus-Tweet-Sentiment-Analysismain/blob/README.md)**
+2. **[Coronavirus Tweet Sentiment Analysis](https://github.com/ImAbhijeetPanda/Coronavirus-Tweet-Sentiment-Analysis/blob/main/README.md)**
     - Built a machine learning model to classify COVID-19-related tweets into Positive, Negative, and Neutral sentiments.
     - Tools Used: Python, Pandas, Matplotlib, Seaborn, TF-IDF, Tensor, LSTM RNN, Word2Vec, Logistic Regression, Randomforest Classifier, SVM, NLP etc
 
