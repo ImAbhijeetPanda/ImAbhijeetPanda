@@ -75,8 +75,11 @@ As a **data-driven problem solver**, I specialize in transforming raw data into 
     - Successfully categorized content into meaningful clusters, improving understanding of Netflix’s content distribution.
 
 4. **[Hotel Booking Analysis](https://github.com/ImAbhijeetPanda/Hotel-Booking/blob/main/README.md)**
-    - Conducted **exploratory data analysis (EDA)** to identify booking trends, cancellations, and customer behavior.
-    - Tools Used: Python, Pandas, Matplotlib, Seaborn
+    - Conducted an **Exploratory Data Analysis (EDA) on hotel booking data** to analyze booking patterns, cancellations, and customer preferences.  
+    - Utilized **Python, Pandas, Matplotlib, and Seaborn** for data cleaning, visualization, and trend analysis.  
+    - Performed **univariate, bivariate, and multivariate analysis**, including correlation heatmaps and categorical distributions.  
+    - Identified key factors influencing cancellations and explored room type preferences across customer segments.  
+    - Provided insights using **bar charts, histograms, line charts, and heatmaps** to support data-driven decision-making.
 
 5. **SWAYAM Platform Analysis**
     - Conducted in-depth analysis using **Python** and **MS Excel** to improve user experience and enhance educational impact.
