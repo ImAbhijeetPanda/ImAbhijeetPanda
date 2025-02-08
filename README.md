@@ -64,9 +64,11 @@ As a **data-driven problem solver**, I specialize in transforming raw data into 
     - Followed the **CRISP-ML(Q) methodology**, including **data collection, preprocessing, model training, evaluation, and deployment**.  
     - Deployed a **real-time fault detection system** using **Streamlit**, enabling **automated monitoring and reducing maintenance costs**.
 2. **[Coronavirus Tweet Sentiment Analysis](https://github.com/ImAbhijeetPanda/Coronavirus-Tweet-Sentiment-Analysis/blob/main/README.md)**
-    - Built a machine learning model to classify COVID-19-related tweets into Positive, Negative, and Neutral sentiments.
-    - Tools Used: Python, Pandas, Matplotlib, Seaborn, TF-IDF, Tensor, LSTM RNN, Word2Vec, Logistic Regression, Randomforest Classifier, SVM, NLP etc
-
+    - Developed a **Coronavirus Tweet Sentiment Analysis** project to classify tweets as **Positive, Neutral, or Negative** using machine learning models.  
+    - Utilized **Python, Pandas, NLTK, TF-IDF, and Scikit-learn** for data preprocessing, text analysis, and feature extraction.  
+    - Implemented **LSTM, Logistic Regression, SVM, Random Forest, and Naïve Bayes**, with **TF-IDF and Logistic Regression achieving the best accuracy of 74.3%**.  
+    - Performed **EDA with word clouds, sentiment distributions, and tweet length analysis** to gain insights.  
+    - Provided **real-time sentiment monitoring for crisis management and targeted communication**, aiding policymakers and businesses in decision-making.
 3. **[Netflix Movies and TV Shows Clustering](https://github.com/ImAbhijeetPanda/Netflix-Movies-and-TV-Shows-Clustering/blob/main/README.md)**
     - Developed a **Netflix Movies and TV Shows Clustering** project using **unsupervised machine learning** to analyze and segment content.  
     - Utilized **Python, Pandas, Scikit-learn, NLTK, and TF-IDF** for data preprocessing, text analysis, and feature extraction.  
