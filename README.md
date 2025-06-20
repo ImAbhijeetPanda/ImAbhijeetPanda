@@ -10,6 +10,8 @@ As a **data-driven problem solver**, I specialize in transforming raw data into 
 
 ## 🌟 About Me
 
+
+
 <p align="left">
     <img src="https://camo.githubusercontent.com/80790b1465d51a02453bb5551c9ef76faf52dcdf48804221641749e4c1cec986/68747470733a2f2f6d656469612e74656e6f722e636f6d2f436967707a6170656d736f41414141692f68692d726f626f742e676966" alt="Robot" width="350" align="right">
 </p>
@@ -28,9 +30,30 @@ As a **data-driven problem solver**, I specialize in transforming raw data into 
     - **Advanced Machine Learning & Data Visualization Tools**
 
 - 💡 **Core Competencies**
-    - Data Analysis and Visualization (Python, Power BI, Tableau, MS Excel)
-    - Machine Learning: Supervised, Unsupervised, Time-Series Forecasting
-    - Advanced ML & Computer Vision: YOLO Models, Roboflow
+    - **Data Analysis & Visualization:**  
+  Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Tableau, MS Excel
+
+    - **Machine Learning:**  
+  Supervised & Unsupervised Learning, Time-Series Forecasting, Feature Engineering
+
+    - **Deep Learning & NLP:**  
+  Neural Networks, CNNs, RNNs, Transformers, Text Classification, Sentiment Analysis, Named Entity Recognition (NER)
+
+    - **Large Language Models (LLMs) & Generative AI:**  
+  Prompt Engineering, Fine-tuning (Llama, GPT, Gemini), LangChain, Vector Databases, Retrieval-Augmented Generation (RAG), Text Summarization, Q&A Bots, Conversational AI
+
+    - **Computer Vision:**  
+  Object Detection (YOLO Models), Image Classification, Roboflow, OpenCV
+
+    - **Database & Data Engineering:**  
+  SQL, MySQL, DBMS, Data Cleaning, ETL Pipelines
+
+    - **Web App Development:**  
+  Streamlit, Flask – Building and deploying interactive ML/data apps
+
+    - **Cloud & MLOps:**  
+  Deploying AI/ML Models on AWS & Azure, Model Monitoring, API Integrations
+
 
 ---
 
