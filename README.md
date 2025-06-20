@@ -78,45 +78,61 @@ As a **data-driven problem solver**, I specialize in transforming raw data into 
 </p>
 
 ---
-
 ## 🚀 Projects
 
-1. **[Solar Panel Fault Detection](https://github.com/ImAbhijeetPanda/Solar-Panel-Fault-Detection/blob/Models/README.md)**
-    - Developed a **solar panel fault detection system** using **YOLOv5, YOLOv8, and YOLOv9**, achieving **79% mAP50-95** accuracy.  
-    - Utilized **Python, TensorFlow, PyTorch, OpenCV, and Roboflow** for **image preprocessing, annotation, and deep learning model training**.  
-    - Followed the **CRISP-ML(Q) methodology**, including **data collection, preprocessing, model training, evaluation, and deployment**.  
-    - Deployed a **real-time fault detection system** using **Streamlit**, enabling **automated monitoring and reducing maintenance costs**.
-2. **[Coronavirus Tweet Sentiment Analysis](https://github.com/ImAbhijeetPanda/Coronavirus-Tweet-Sentiment-Analysis/blob/main/README.md)**
-    - Developed a **Coronavirus Tweet Sentiment Analysis** project to classify tweets as **Positive, Neutral, or Negative** using machine learning models.  
-    - Utilized **Python, Pandas, NLTK, TF-IDF, and Scikit-learn** for data preprocessing, text analysis, and feature extraction.  
-    - Implemented **LSTM, Logistic Regression, SVM, Random Forest, and Naïve Bayes**, with **TF-IDF and Logistic Regression achieving the best accuracy of 74.3%**.  
-    - Performed **EDA with word clouds, sentiment distributions, and tweet length analysis** to gain insights.  
-    - Provided **real-time sentiment monitoring for crisis management and targeted communication**, aiding policymakers and businesses in decision-making.
-3. **[Netflix Movies and TV Shows Clustering](https://github.com/ImAbhijeetPanda/Netflix-Movies-and-TV-Shows-Clustering/blob/main/README.md)**
-    - Developed a **Netflix Movies and TV Shows Clustering** project using **unsupervised machine learning** to analyze and segment content.  
-    - Utilized **Python, Pandas, Scikit-learn, NLTK, and TF-IDF** for data preprocessing, text analysis, and feature extraction.  
-    - Applied **K-Means, Agglomerative Clustering, and DBSCAN**, optimizing clusters using **PCA and Silhouette Scores**.  
-    - Performed **EDA with heatmaps, bar charts, and word clouds** to identify trends and insights.  
-    - Successfully categorized content into meaningful clusters, improving understanding of Netflix’s content distribution.
+1. **[RAG-Application: Retrieval-Augmented Generation Application](https://github.com/ImAbhijeetPanda/RAG-Application)**
 
-4. **[Hotel Booking Analysis](https://github.com/ImAbhijeetPanda/Hotel-Booking/blob/main/README.md)**
-    - Conducted an **Exploratory Data Analysis (EDA) on hotel booking data** to analyze booking patterns, cancellations, and customer preferences.  
-    - Utilized **Python, Pandas, Matplotlib, and Seaborn** for data cleaning, visualization, and trend analysis.  
-    - Performed **univariate, bivariate, and multivariate analysis**, including correlation heatmaps and categorical distributions.  
-    - Identified key factors influencing cancellations and explored room type preferences across customer segments.  
-    - Provided insights using **bar charts, histograms, line charts, and heatmaps** to support data-driven decision-making.
+   * Developed a **Retrieval-Augmented Generation (RAG) Application** to combine the power of Large Language Models (LLMs) with external document retrieval for accurate and context-aware answers.
+   * Utilized **Python, LangChain, and Streamlit** for building an interactive and user-friendly Q\&A platform.
+   * Integrated **vector databases** for efficient document search and retrieval, and implemented **prompt engineering** for better LLM performance.
+   * Enabled support for **PDF ingestion, document summarization, and conversational AI** workflows.
+   * Demonstrated practical applications for **enterprise search, knowledge management, and document intelligence**.
 
-5. **SWAYAM: A Comprehensive Study on Online Education**
-    - Conducted a **comprehensive study on online education using SWAYAM** by analyzing enrollment trends, course popularity, and user engagement.  
-    - Utilized **Excel and Python (Pandas, Matplotlib, Seaborn)** for data cleaning, visualization, and exploratory data analysis (EDA).  
-    - Identified key insights on **learner demographics, course completion rates, and subject preferences**.  
-    - Provided **data-driven recommendations** to enhance course offerings and improve user engagement on the platform.
+2. **[Solar Panel Fault Detection](https://github.com/ImAbhijeetPanda/Solar-Panel-Fault-Detection/blob/Models/README.md)**
 
-6. **Microsoft Power BI: Olympic Medal Analysis Using Power BI**
-    - Conducted an in-depth analysis of **Olympic medal distributions** using **Power BI**, exploring country performances, event trends, and historical medal counts.  
-    - Utilized **Power Query Editor** for data transformation and cleaning, ensuring accuracy and consistency.  
-    - Applied **DAX functions** to create dynamic measures and insightful visualizations for performance comparisons.  
-    - Provided interactive dashboards to track medal trends, athlete statistics, and country-wise achievements over time.
+   * Developed a **solar panel fault detection system** using **YOLOv5, YOLOv8, and YOLOv9**, achieving **79% mAP50-95** accuracy.
+   * Utilized **Python, TensorFlow, PyTorch, OpenCV, and Roboflow** for **image preprocessing, annotation, and deep learning model training**.
+   * Followed the **CRISP-ML(Q) methodology**, including **data collection, preprocessing, model training, evaluation, and deployment**.
+   * Deployed a **real-time fault detection system** using **Streamlit**, enabling **automated monitoring and reducing maintenance costs**.
+
+3. **[Coronavirus Tweet Sentiment Analysis](https://github.com/ImAbhijeetPanda/Coronavirus-Tweet-Sentiment-Analysis/blob/main/README.md)**
+
+   * Developed a **Coronavirus Tweet Sentiment Analysis** project to classify tweets as **Positive, Neutral, or Negative** using machine learning models.
+   * Utilized **Python, Pandas, NLTK, TF-IDF, and Scikit-learn** for data preprocessing, text analysis, and feature extraction.
+   * Implemented **LSTM, Logistic Regression, SVM, Random Forest, and Naïve Bayes**, with **TF-IDF and Logistic Regression achieving the best accuracy of 74.3%**.
+   * Performed **EDA with word clouds, sentiment distributions, and tweet length analysis** to gain insights.
+   * Provided **real-time sentiment monitoring for crisis management and targeted communication**, aiding policymakers and businesses in decision-making.
+
+4. **[Netflix Movies and TV Shows Clustering](https://github.com/ImAbhijeetPanda/Netflix-Movies-and-TV-Shows-Clustering/blob/main/README.md)**
+
+   * Developed a **Netflix Movies and TV Shows Clustering** project using **unsupervised machine learning** to analyze and segment content.
+   * Utilized **Python, Pandas, Scikit-learn, NLTK, and TF-IDF** for data preprocessing, text analysis, and feature extraction.
+   * Applied **K-Means, Agglomerative Clustering, and DBSCAN**, optimizing clusters using **PCA and Silhouette Scores**.
+   * Performed **EDA with heatmaps, bar charts, and word clouds** to identify trends and insights.
+   * Successfully categorized content into meaningful clusters, improving understanding of Netflix’s content distribution.
+
+5. **[Hotel Booking Analysis](https://github.com/ImAbhijeetPanda/Hotel-Booking/blob/main/README.md)**
+
+   * Conducted an **Exploratory Data Analysis (EDA) on hotel booking data** to analyze booking patterns, cancellations, and customer preferences.
+   * Utilized **Python, Pandas, Matplotlib, and Seaborn** for data cleaning, visualization, and trend analysis.
+   * Performed **univariate, bivariate, and multivariate analysis**, including correlation heatmaps and categorical distributions.
+   * Identified key factors influencing cancellations and explored room type preferences across customer segments.
+   * Provided insights using **bar charts, histograms, line charts, and heatmaps** to support data-driven decision-making.
+
+6. **SWAYAM: A Comprehensive Study on Online Education**
+
+   * Conducted a **comprehensive study on online education using SWAYAM** by analyzing enrollment trends, course popularity, and user engagement.
+   * Utilized **Excel and Python (Pandas, Matplotlib, Seaborn)** for data cleaning, visualization, and exploratory data analysis (EDA).
+   * Identified key insights on **learner demographics, course completion rates, and subject preferences**.
+   * Provided **data-driven recommendations** to enhance course offerings and improve user engagement on the platform.
+
+7. **Microsoft Power BI: Olympic Medal Analysis Using Power BI**
+
+   * Conducted an in-depth analysis of **Olympic medal distributions** using **Power BI**, exploring country performances, event trends, and historical medal counts.
+   * Utilized **Power Query Editor** for data transformation and cleaning, ensuring accuracy and consistency.
+   * Applied **DAX functions** to create dynamic measures and insightful visualizations for performance comparisons.
+   * Provided interactive dashboards to track medal trends, athlete statistics, and country-wise achievements over time.
+
 ---
 
 ## 📫 Let's Connect
